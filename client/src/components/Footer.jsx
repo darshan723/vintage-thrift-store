@@ -38,11 +38,12 @@ export default function Footer() {
             <li><a href="#">Shipping & Returns</a></li>
           </ul>
           <div style={{ marginTop: 'var(--space-md)', color: 'var(--color-text-muted)', fontSize: '0.9rem', lineHeight: '1.6' }}>
-            <strong>Store Address:</strong><br />
-            GF-5 Snehdhara Complex,<br />
-            Fatehgunj, Vadodara,<br />
-            Gujarat 390008<br /><br />
-            <strong>Phone:</strong> 079846 63353
+            <strong>Owned by:</strong><br />
+            Darshan<br />
+            -. .- .. -. .-<br />
+            Curated vintage pieces<br />
+            for timeless aesthetic.<br /><br />
+            <strong>Phone:</strong> 8830617136
           </div>
         </div>
       </div>
