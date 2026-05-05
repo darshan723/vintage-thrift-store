@@ -43,7 +43,7 @@ export default function Home() {
           <h1>Timeless treasures</h1>
           <div className="hero-author">BY DARSHAN</div>
           <p>
-            Discover timeless, high-quality thrifted clothing. From authentic '90s denim to classic leather boots, each piece is hand-picked for character and durability.
+            Step into an era of unmatched craftsmanship. From authentic '90s selvedge denim to gracefully aged leather boots, every curated piece in our collection carries a soul, a history, and a timeless aesthetic waiting to be reborn.
           </p>
           <div className="hero-buttons">
             <a href="#categories" className="btn btn-primary btn-lg">Shop Now</a>
