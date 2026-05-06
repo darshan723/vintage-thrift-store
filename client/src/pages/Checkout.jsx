@@ -62,7 +62,7 @@ export default function Checkout() {
         <FiCheckCircle style={{ fontSize: '4rem', color: 'var(--color-success)', marginBottom: 'var(--space-lg)' }} />
         <h1 style={{ fontFamily: 'var(--font-display)', marginBottom: 'var(--space-md)' }}>Order Confirmed!</h1>
         <p style={{ color: 'var(--color-text-muted)', marginBottom: 'var(--space-xl)', fontSize: '1.1rem' }}>
-          Thank you for shopping with Vintage House Wear. Your curated pieces are being prepared for shipping.
+          Thank you for shopping with Vintage House Store. Your curated pieces are being prepared for shipping.
         </p>
         <button className="btn btn-primary btn-lg" onClick={() => navigate('/profile')}>
           View Order Status

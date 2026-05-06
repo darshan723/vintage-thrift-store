@@ -41,7 +41,7 @@ export default function Navbar() {
       <div className="navbar-inner">
         {/* Logo */}
         <Link to="/" className="navbar-logo" onClick={() => setMenuOpen(false)}>
-          <img src="/logo.png" alt="Vintage House Wear" className="navbar-logo-image" />
+          <img src="/logo.png" alt="Vintage House Store" className="navbar-logo-image" />
         </Link>
 
         {/* Navigation Links */}

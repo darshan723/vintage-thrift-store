@@ -26,7 +26,7 @@ export default function Login() {
       setError('');
       setLoading(true);
       await login(email, password);
-      toast.success('Welcome back to Vintage House Wear!');
+      toast.success('Welcome back to Vintage House Store!');
       navigate(from, { replace: true });
     } catch (err) {
       setError(err.response?.data?.message || 'Failed to login. Please try again.');

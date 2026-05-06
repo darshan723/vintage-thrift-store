@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-grid">
         <div className="footer-brand">
-          <h3>🏛️ Vintage House Wear</h3>
+          <h3>🏛️ Vintage House Store</h3>
           <p>
             Curated vintage clothing for the modern soul. Every piece tells a story,
             every stitch holds a memory. Sustainably sourced, timeless style.
@@ -48,7 +48,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <span>© 2024 Vintage House Wear. All rights reserved.</span>
+        <span>© 2024 Vintage House Store. All rights reserved.</span>
         <span>Crafted with ♥ and old leather</span>
       </div>
     </footer>
